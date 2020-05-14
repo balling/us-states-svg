@@ -1,0 +1,55 @@
+fips,abbr,name,crs
+01,AL,Alabama,26929
+02,AK,Alaska,26931
+04,AZ,Arizona,26949
+05,AR,Arkansas,26952
+06,CA,California,26945
+08,CO,Colorado,26953
+09,CT,Connecticut,26956
+10,DE,Delaware,26957
+11,DC,District of Columbia,26985
+12,FL,Florida,26959
+13,GA,Georgia,26967
+15,HI,Hawaii,26962
+16,ID,Idaho,26968
+17,IL,Illinois,26972
+18,IN,Indiana,26973
+19,IA,Iowa,26976
+20,KS,Kansas,26978
+21,KY,Kentucky,2205
+22,LA,Louisiana,26982
+23,ME,Maine,26983
+24,MD,Maryland,26985
+25,MA,Massachusetts,26987
+26,MI,Michigan,26989
+27,MN,Minnesota,26992
+28,MS,Mississippi,26995
+29,MO,Missouri,26951
+30,MT,Montana,32100
+31,NE,Nebraska,32104
+32,NV,Nevada,32107
+33,NH,New Hampshire,32110
+34,NJ,New Jersey,32111
+35,NM,New Mexico,32113
+36,NY,New York,32118
+37,NC,North Carolina,32119
+38,ND,North Dakota,32121
+39,OH,Ohio,32122
+40,OK,Oklahoma,32125
+41,OR,Oregon,32127
+42,PA,Pennsylvania,32129
+44,RI,Rhode Island,32130
+45,SC,South Carolina,32133
+46,SD,South Dakota,32134
+47,TN,Tennessee,32136
+48,TX,Texas,32139
+49,UT,Utah,32142
+50,VT,Vermont,32145
+51,VA,Virginia,32146
+53,WA,Washington,32148
+54,WV,West Virginia,32150
+55,WI,Wisconsin,32153
+56,WY,Wyoming,32155
+60,AS,American Samoa,32116
+66,GU,Guam,27652
+72,PR,Puerto Rico,2820
